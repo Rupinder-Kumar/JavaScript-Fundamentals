@@ -1,2 +1,2 @@
 # JavaScript-Fundamentals
-Core Javascript Concepts
+Core Javascript Concepts and exercises
